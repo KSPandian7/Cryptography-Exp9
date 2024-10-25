@@ -1,4 +1,4 @@
-# Implement-RSA-Encryption-and-Decryption
+# Exp-09-Implement-RSA-Encryption-and-Decryption
 
 ## AIM:
 To implement the RSA algorithm to securely encrypt and decrypt messages using public and private keys.
